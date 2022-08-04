@@ -4,7 +4,7 @@
 - 🌱 Atualmente estou estudando Java Spring e Go.
 - 💬 Contate me pelo e-mail: wellingtonmartevi@hotmail.com
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/Wmartevi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wmartevi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wmartevi&layout=compact&langs_count=7&theme=dracula"/>
